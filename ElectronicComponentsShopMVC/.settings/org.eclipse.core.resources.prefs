@@ -1,0 +1,16 @@
+eclipse.preferences.version=1
+encoding//src/main/java/ElectronicComponentsShopMVC/Controller/Admin/CustomerManagerController.java=UTF-8
+encoding//src/main/java/ElectronicComponentsShopMVC/Controller/Admin/EmloyeeManagerController.java=UTF-8
+encoding//src/main/java/ElectronicComponentsShopMVC/Controller/User/Login_RegisterController.java=UTF-8
+encoding//src/main/java/ElectronicComponentsShopMVC/Dao/CategoryDao.java=UTF-8
+encoding//src/main/java/ElectronicComponentsShopMVC/Dao/ProductDao.java=UTF-8
+encoding//src/main/java/ElectronicComponentsShopMVC/Dao/UserDao.java=UTF-8
+encoding//src/main/java/ElectronicComponentsShopMVC/Entity/Customer.java=UTF-8
+encoding//src/main/java/ElectronicComponentsShopMVC/Entity/Emloyee.java=UTF-8
+encoding//src/main/java/ElectronicComponentsShopMVC/Entity/Users.java=UTF-8
+encoding//src/main/java/ElectronicComponentsShopMVC/Service/Admin/AdminService.java=UTF-8
+encoding//src/main/java/ElectronicComponentsShopMVC/Service/User/RegisterCustomerService.java=UTF-8
+encoding//src/main/java/ElectronicComponentsShopMVC/Service/User/UserService.java=UTF-8
+encoding//src/main/webapp/WEB-INF/views/admin/customer-manager/editCus.jsp=UTF-8
+encoding//src/main/webapp/WEB-INF/views/admin/customer-manager/insertCus.jsp=UTF-8
+encoding//src/main/webapp/WEB-INF/views/manager_customer.jsp=UTF-8
